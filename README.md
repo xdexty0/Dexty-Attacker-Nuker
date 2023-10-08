@@ -1,4 +1,4 @@
-### Zero Attacker
+### Dexty Attacker
  
 - 2.0 VERSION IS HERE 
 
@@ -6,7 +6,7 @@
 
 - Re-Lauch of the tool this time with the source code (remember this is completely basic of the tool for buying additional tools with advance version you can reach out to us on discord, we provide all type of stuff)
 
-- 📣 Telegram: dextyy34
+- 📣 Telegram: https://t.me/dexty34
 
 
 
