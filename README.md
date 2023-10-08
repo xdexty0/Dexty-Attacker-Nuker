@@ -2,11 +2,11 @@
  
 - 2.0 VERSION IS HERE 
 
-- Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
+- Dexty Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
 - Re-Lauch of the tool this time with the source code (remember this is completely basic of the tool for buying additional tools with advance version you can reach out to us on discord, we provide all type of stuff)
 
-- 📣 Website is launching soon https://zerooffenssecurity.cloud/ 
+- 📣 Telegram: dextyy34
 
 
 
@@ -16,16 +16,16 @@ We are also providing advance paid tools to help you with in different penterati
 
 
 ### Getting Started
--  git clone https://github.com/AsjadOooO/Zero-attacker/
-- `cd Zero-Attacker`
+-  git clone (https://github.com/xdexty0/Dexty-Attacker-Nuker)/
+- `cd Dexty-Attacker`
 - `python -m pip install -r requirements.txt`
 - for(Windows user just run the bat file (`install.bat` if running first time else `start.bat`) )
-- run python zero.py
+- run python dexty.py
 
 
 ### License
 
-- Zero-Tool  is under the MIT License
+- Dexty-Tool  is under the MIT License
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
@@ -35,10 +35,10 @@ We are also providing advance paid tools to help you with in different penterati
 
 
 ### Developer 
-- Zero Offens Security is owned by Asjad and dev7knight
-- Developer are dev7knight,asjad,visa2code 
-- Contact for any kind of help  Asjad#0060 (.asjad) or dev7knight 
-- [support server](https://discord.gg/J5X3KnBPGe)
+- dExty Offens Security is owned by Dexty
+- Developer are dexty
+- Contact for any kind of help  Discord: dexty0
+- [support server](https://discord.gg/fZNgtNwuqH)
 
 
 [Asjad Personal Site](https://www.asjad.xyz/) <br>
@@ -47,7 +47,7 @@ We are also providing advance paid tools to help you with in different penterati
 [visa2code aka Tejas Lamba](https://github.com/TejasLamba2006) <br>
 
 
-- Zero Tool
+- Dexty Tool
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsjasOooO&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
 
