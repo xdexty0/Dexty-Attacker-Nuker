@@ -12,7 +12,7 @@
 
 
 ### Paid Tools 
-We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)- [ server](https://discord.gg/J5X3KnBPGe)
+We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)- [ server](https://discord.gg/fZNgtNwuqH))
 
 
 ### Getting Started
@@ -29,27 +29,24 @@ We are also providing advance paid tools to help you with in different penterati
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/1.jpg)
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/2.jpg)
+
+![image](https://github.com/xdexty0/Dexty-Attacker-Nuker/assets/147257219/b30f030d-8697-4b32-9a61-26f59f60daa9)
+
 
 
 
 ### Developer 
-- dExty Offens Security is owned by Dexty
+- dexty Offens Security is owned by Dexty
 - Developer are dexty
 - Contact for any kind of help  Discord: dexty0
 - [support server](https://discord.gg/fZNgtNwuqH)
 
 
-[Asjad Personal Site](https://www.asjad.xyz/) <br>
-[dev7knight Personal discord server](https://discord.gg/ft7Q8y5UT3) <br> 
-[Web-Bugger](https://github.com/dev7knight/WebBugger) <br> 
-[visa2code aka Tejas Lamba](https://github.com/TejasLamba2006) <br>
 
 
 - Dexty Tool
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsjasOooO&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
+
 
 
 
